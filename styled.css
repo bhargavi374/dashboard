@@ -49,14 +49,12 @@ header{
     padding: 0px 20px;
     top:10px;
     position: relative;
-    
 }
 .div2>img:hover{
     outline: 6px solid rgb(0, 110, 255);
     cursor: pointer;
     transition: 0.1s;
-    
-
+    border: 5px solid aqua;
 }
 #i1{
     font-size: 40px;
